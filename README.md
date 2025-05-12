@@ -49,5 +49,7 @@ Addition: 68
 Subtraction: 22
 Multiplication: 46
 Exponentiation: 16
+
 License
+
 This project is open-source under the MIT License.
