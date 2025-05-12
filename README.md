@@ -37,9 +37,13 @@ a = 23 * 2    # Multiplication
 b = 2 ** 4    # Exponentiation
 
 print("Addition:", x)
+
 print("Subtraction:", y)
+
 print("Multiplication:", a)
+
 print("Exponentiation:", b)
+
 Output
 Addition: 68
 Subtraction: 22
